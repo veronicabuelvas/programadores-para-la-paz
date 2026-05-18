@@ -1,0 +1,7 @@
+Pregunta: ¿Qué relación encuentras entre el uso responsable de la información en internet,
+la participación ciudadana y la organización del trabajo técnico con herramientas como Git? 
+
+Respuesta: Creo que esta relación se puede entender como un entramado de prácticas que fortalecen la vida democrática y la 
+colaboración profesional. Saber distiguir las fuentes confiables es clave para tomar decisiones infomadas, la ética digital
+no implica manipular ni distorsionar información, sino usarla para el bien común. La información veraz permite las creación de dialógo
+discusiones y la gobernanza dgital. Git, permite que los equipos trabajen abiertos y transparentes! 
